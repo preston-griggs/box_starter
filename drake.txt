@@ -8,14 +8,12 @@ choco install azure-data-studio -y
 choco install etcher -y
 choco install comicrack -y
 choco install sqlitebrowser -y
-choco install discord -y
 choco install docker-desktop -y
 choco install dropbox -y
 choco install epicgameslauncher -y
 choco install git -y
 choco install goggalaxy -y
 choco install googlechrome -y
-choco install gotomeeting -y
 choco install handbrake -y
 choco install hulu.desktop -y
 choco install keepass -y
