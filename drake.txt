@@ -1,7 +1,7 @@
 Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtectedOSFiles -EnableShowFileExtensions -EnableShowFullPathInTitleBar -EnableOpenFileExplorerToQuickAccess -EnableShowRecentFilesInQuickAccess -EnableShowFrequentFoldersInQuickAccess -EnableExpandToOpenFolder -EnableShowRibbon
 
 
-choco install 7-zip -y
+choco install 7zip -y
 choco install anaconda3 -y
 choco install arduino -y
 choco install azure-data-studio -y
