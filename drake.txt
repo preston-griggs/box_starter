@@ -6,10 +6,12 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V -All
 
 choco install 7zip -y
 choco install anaconda3 -y
+choco install ant-renamer -y
 choco install arduino -y
 choco install azure-data-studio -y
 choco install etcher -y
 choco install comicrack -y
+choco install discord -y
 choco install sqlitebrowser -y
 choco install dropbox -y
 choco install epicgameslauncher -y
@@ -24,6 +26,7 @@ choco install visualstudio2019community -y
 choco install firefox -y
 choco install mysql.workbench -y
 choco install origin -y
+choco install paint.net -y
 choco install plex -y
 choco install powerbi -y
 choco install python -y
