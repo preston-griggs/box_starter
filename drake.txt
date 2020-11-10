@@ -2,6 +2,8 @@ Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtec
 
 Set-TimeZone -Name "Central Standard Time" -Verbose
 
+Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V -All
+
 choco install 7zip -y
 choco install anaconda3 -y
 choco install arduino -y
